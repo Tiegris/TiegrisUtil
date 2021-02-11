@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiegrisUtil", "TiegrisUtil\TiegrisUtil.csproj", "{C430A7E7-856C-4BA9-B249-8D99B63AC092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{3A96B1AB-4176-4658-9F9D-E1719D6956AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C430A7E7-856C-4BA9-B249-8D99B63AC092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C430A7E7-856C-4BA9-B249-8D99B63AC092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C430A7E7-856C-4BA9-B249-8D99B63AC092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C430A7E7-856C-4BA9-B249-8D99B63AC092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A96B1AB-4176-4658-9F9D-E1719D6956AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A96B1AB-4176-4658-9F9D-E1719D6956AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A96B1AB-4176-4658-9F9D-E1719D6956AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A96B1AB-4176-4658-9F9D-E1719D6956AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8075E1AC-DF9C-4BC7-A171-07D021102E92}
+	EndGlobalSection
+EndGlobal
